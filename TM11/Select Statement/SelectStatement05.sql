@@ -1,0 +1,1 @@
+SELECT LAST_NAME || q'[, ]' || JOB_ID AS "Employee and Title" FROM EMPLOYEES;
